@@ -1,6 +1,6 @@
 /*
  * Project: Bluetooth Controlled Robot Car
- * Author:    Eng Ayten ehan akl
+ * Author:    Ayten ehan akl
  * Description:
  * Control a robot car using Bluetooth commands from a mobile phone.
  */
