@@ -66,7 +66,7 @@ The robot receives commands from a Bluetooth module (such as HC-05 or HC-06) con
 
 ## Programming Concepts
 - Arduino Programming
-- Bluetooth Serial Communication
+- Bluetooth Serial Communication  
 - DC Motor Control
 - PWM Speed Control
 - Functions
